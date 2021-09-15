@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/html-css-custom-properties-flexbox-pinch-of-java-script-uVZP6Culx)
+- [Live Site URL](https://rajni2002.github.io/FAQ-accordion-card.github.io/)
 
 ## My process
 
