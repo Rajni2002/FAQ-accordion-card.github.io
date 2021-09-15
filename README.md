@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop-view](https://github.com/Rajni2002/FAQ-accordion-card.github.io/blob/main/images/Screenshot%202021-09-15%20at%2010.25.06%20PM.png)
 
 ### Links
 
